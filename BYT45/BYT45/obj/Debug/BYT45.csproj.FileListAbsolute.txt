@@ -1,0 +1,13 @@
+c:\users\rahele\documents\visual studio 2012\Projects\BYT45\BYT45\bin\Debug\BYT45.exe.config
+c:\users\rahele\documents\visual studio 2012\Projects\BYT45\BYT45\bin\Debug\BYT45.exe
+c:\users\rahele\documents\visual studio 2012\Projects\BYT45\BYT45\bin\Debug\BYT45.pdb
+c:\users\rahele\documents\visual studio 2012\Projects\BYT45\BYT45\obj\Debug\BYT45.exe
+c:\users\rahele\documents\visual studio 2012\Projects\BYT45\BYT45\obj\Debug\BYT45.pdb
+c:\users\rahele\documents\visual studio 2012\Projects\BYT45\BYT45\obj\Debug\BYT45.csprojResolveAssemblyReference.cache
+C:\Users\MehmetKonuk\Desktop\5. SEMESTER\BYT-e\wetransfer-75c771\BYT45\BYT45\bin\Debug\BYT45.exe.config
+C:\Users\MehmetKonuk\Desktop\5. SEMESTER\BYT-e\wetransfer-75c771\BYT45\BYT45\bin\Debug\BYT45.exe
+C:\Users\MehmetKonuk\Desktop\5. SEMESTER\BYT-e\wetransfer-75c771\BYT45\BYT45\bin\Debug\BYT45.pdb
+C:\Users\MehmetKonuk\Desktop\5. SEMESTER\BYT-e\wetransfer-75c771\BYT45\BYT45\obj\Debug\BYT45.csprojAssemblyReference.cache
+C:\Users\MehmetKonuk\Desktop\5. SEMESTER\BYT-e\wetransfer-75c771\BYT45\BYT45\obj\Debug\BYT45.csproj.CoreCompileInputs.cache
+C:\Users\MehmetKonuk\Desktop\5. SEMESTER\BYT-e\wetransfer-75c771\BYT45\BYT45\obj\Debug\BYT45.exe
+C:\Users\MehmetKonuk\Desktop\5. SEMESTER\BYT-e\wetransfer-75c771\BYT45\BYT45\obj\Debug\BYT45.pdb
